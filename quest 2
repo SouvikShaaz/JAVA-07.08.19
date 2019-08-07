@@ -1,0 +1,1 @@
+writa a java program to create a class which has 1 static and one non statice variable create  obj1 and obj2 of that class. Assign to both the variables using obj1 then ressign the value of both the variables using obj2 with different value. Show the variables values using obj1 and obj2
